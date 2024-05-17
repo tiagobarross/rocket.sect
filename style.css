@@ -32,3 +32,42 @@ header ul li a{
     text-decoration: none;
 }
 
+main{
+    width: 1092px;
+    height: 283px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    margin: auto;
+}
+
+#text{
+    text-align: center;
+}
+
+#text h1{
+    width: 361px;
+    height: 40px;
+    font-size: 36px;
+    color: #FFFFFF;
+    font-family: "JetBrains Mono", sans-serif;
+    margin-bottom: 59px;
+    line-height: 40px;
+}
+
+#text span{
+    color: #00BFA6;
+}
+
+#text p{
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    color: #FFFFFF;
+    line-height: 28px;
+}
+
+main img{
+    width: 401px;
+    height: 283px;
+    margin-right: 80px;
+}
